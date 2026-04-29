@@ -1,5 +1,7 @@
 🎬 AI for video editing tools
 
+Link do NotebookLM: https://notebooklm.google.com/notebook/6d1cacaa-da0d-4bbb-83a0-70a90ec1ef8f?authuser=1 
+
 Contexto e objetivos:
 
 Este projeto explora o uso de Inteligência Artificial aplicada à produção audiovisual, utilizando o NotebookLM como ferramenta de apoio para estudo e organização do conhecimento.
@@ -88,9 +90,8 @@ Prompts Reutilizáveis:
 
 ---
 
-Insights Pessoais:
+Insights Pessoais
 
-- IA reduz tempo em tarefas repetitivas, mas ainda exige supervisão humana  
-- Nem todas as ferramentas são úteis em contexto profissional  
-- Testes práticos são essenciais para validar o uso das ferramentas
-
+- A IA reduz significativamente o tempo gasto em tarefas repetitivas, porém ainda exige supervisão humana para garantir qualidade e precisão nos resultados.
+- As ferramentas sugeridas podem ser extremamente úteis no dia a dia do editor, mas é necessário um processo de teste, erro e validação para identificar quais realmente se encaixam em cada workflow.
+- Centralizar sugestões de ferramentas em um único ambiente otimiza a busca por soluções e facilita a descoberta de novas IAs que podem aprimorar a qualidade final das entregas.
