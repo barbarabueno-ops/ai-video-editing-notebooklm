@@ -14,10 +14,9 @@ Este projeto explora o uso de Inteligência Artificial aplicada à produção au
 O objetivo é entender como ferramentas de IA podem otimizar o workflow de editores de vídeo, desde a criação de roteiros até a pós-produção.
 
 Objetivos específicos:
-- Identificar ferramentas úteis no dia a dia de edição.
-- Testar aplicações práticas de IA.
-- Criar um material de estudo reutilizável.
-- Desenvolver pensamento crítico sobre o uso de IA.
+
+- Identificar ferramentas de IA úteis no dia a dia da edição e produção audiovisual.  
+- Apresentar descrições claras das ferramentas, permitindo que o usuário avalie se atendem às suas necessidades.  
 
 ---
 
@@ -45,7 +44,7 @@ Prompt melhorado:
 "Quais ferramentas de IA ajudam na limpeza de áudio e corte automático de vídeo?"
 
 Resultado:
-Resposta mais específica, com exemplos aplicáveis.
+Resposta mais específica, com exemplos e explicações das ferramentas citadas.
 
 
 Prompt avançado:
@@ -65,17 +64,15 @@ Aprendizados:
 
 Miniguia de Estudo:
 
-Resumo:
-A Inteligência Artificial está transformando a produção audiovisual ao automatizar tarefas repetitivas e acelerar processos de edição.
+Este miniguia tem como objetivo auxiliar na descoberta de ferramentas de IA que otimizam o workflow de editores de vídeo.
 
-Principais aplicações:
-- Limpeza de áudio.  
-- Transcrição automática.  
-- Geração de roteiros.  
-- Automação de cortes.  
-- Organização de conteúdo.  
+As principais aplicações incluem:
 
----
+- Limpeza de áudio  
+- Transcrição automática  
+- Geração de roteiros  
+- Automação de cortes  
+- Organização de conteúdo  
 
 Glossário:
 
