@@ -1,6 +1,10 @@
 🎬 AI for video editing tools
 
-Link do NotebookLM: https://notebooklm.google.com/notebook/6d1cacaa-da0d-4bbb-83a0-70a90ec1ef8f?authuser=1 
+NotebookLM
+
+Este projeto foi desenvolvido utilizando o NotebookLM como ferramenta de apoio para curadoria, análise de fontes e identificação de ferramentas de IA com potencial para auxiliar editores de vídeo. Acesse o notebook:
+https://notebooklm.google.com/notebook/6d1cacaa-da0d-4bbb-83a0-70a90ec1ef8f
+
 
 Contexto e objetivos:
 
